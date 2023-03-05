@@ -8,6 +8,11 @@ Spirituality ⛪ Survivor 🏝️ Reading 📚 Running 🏃
 ## :writing_hand: Blog posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Reflections on the article: Continuous growth is cancer](https://blog.christopherlopes.com/posts/2024-03-04-reflections-on-continuous-growth-is-cancer/)
+- [I am a storyteller](https://blog.christopherlopes.com/posts/2023-01-29-i-am-a-storyteller/)
+- [We teach failure is to be feared](https://blog.christopherlopes.com/posts/2023-01-19-we-teach-failure-is-to-be-feared/)
+- [Using devcontainers with VS Code and GitHub Codespaces](https://blog.christopherlopes.com/posts/2023-01-16-devcontainers/)
+- [The core of what it is to love someone](https://blog.christopherlopes.com/posts/2021-11-21-the-core-of-what-it-is-to-love-someone/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
