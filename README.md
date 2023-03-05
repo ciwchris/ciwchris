@@ -1,6 +1,6 @@
-Doggy 🐶 Hiking 🥾 Flying 🛩️ Health 🥕👨💻🏋️
-Husband 👩❤️👨 Life Learner 📝 Motorcycle 🏍️
-Podcasts 🎙️ Software Developer (.Net 💼, Elixir 💜)
+Doggy 🐶 Hiking 🥾 Flying 🛩️ Health 🥕👨💻🏋️  
+Husband 👩❤️👨 Life Learner 📝 Motorcycle 🏍️  
+Podcasts 🎙️ Software Developer (.Net 💼, Elixir 💜)  
 Spirituality ⛪ Survivor 🏝️ Reading 📚 Running 🏃
 
 <!--
