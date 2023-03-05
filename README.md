@@ -1,7 +1,14 @@
+## About me:
+
 Doggy 🐶 Hiking 🥾 Flying 🛩️ Health 🥕👨💻🏋️  
 Husband 👩❤️👨 Life Learner 📝 Motorcycle 🏍️  
 Podcasts 🎙️ Software Developer (.Net 💼, Elixir 💜)  
 Spirituality ⛪ Survivor 🏝️ Reading 📚 Running 🏃
+
+## :writing_hand: Blog posts:
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!--
 **ciwchris/ciwchris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
