@@ -1,4 +1,8 @@
-## About me:
+## Hi, I'm Chris :wave:
+
+[![Wilderness scene](https://raw.githubusercontent.com/ciwchris/ciwchris/main/GitHubBanner.jpg)](https://christopherlopes.com)
+
+## Here are some of my interests:
 
 Doggy 🐶 Hiking 🥾 Flying 🛩️ Health 🥕👨💻🏋️  
 Husband 👩❤️👨 Life Learner 📝 Motorcycle 🏍️  
