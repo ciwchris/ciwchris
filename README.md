@@ -12,11 +12,11 @@ Spirituality ⛪ Survivor 🏝️ Reading 📚 Running 🏃
 ## :writing_hand: Blog posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Faking time and logs](https://blog.christopherlopes.com/posts/2024-03-11-faking-time-and-logs/)
 - [The space we live in](https://blog.christopherlopes.com/posts/2023-09-17-the-space-we-live-in/)
-- [Why not to ask doctors for their advice](https://blog.christopherlopes.com/posts/2023-08-30-why-not-to-ask-doctors-for-their-advice/)
+- [Why not ask doctors for their advice](https://blog.christopherlopes.com/posts/2023-08-30-why-not-to-ask-doctors-for-their-advice/)
 - [Ask vs guess culture at work](https://blog.christopherlopes.com/posts/2023-08-20-ask-vs-guess-culture-at-work/)
 - [The fall of poetry](https://blog.christopherlopes.com/posts/2023-08-08-the-fall-of-poetry/)
-- [Lessons from my dog on courage](https://blog.christopherlopes.com/posts/2023-06-16-lessons-from-my-dog-on-courage/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
