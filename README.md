@@ -12,11 +12,11 @@ Spirituality ⛪ Survivor 🏝️ Reading 📚 Running 🏃
 ## :writing_hand: Blog posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Architecture Descision Records &lpar;ADR&rpar;](https://blog.christopherlopes.com/posts/2024-04-08-architecture-decision-records/)
 - [Faking time and logs](https://blog.christopherlopes.com/posts/2024-03-11-faking-time-and-logs/)
 - [The question of null](https://blog.christopherlopes.com/posts/2023-11-29-the-question-of-null/)
 - [The space we live in](https://blog.christopherlopes.com/posts/2023-09-17-the-space-we-live-in/)
 - [Why not ask doctors for their advice](https://blog.christopherlopes.com/posts/2023-08-30-why-not-to-ask-doctors-for-their-advice/)
-- [Ask vs guess culture at work](https://blog.christopherlopes.com/posts/2023-08-20-ask-vs-guess-culture-at-work/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
