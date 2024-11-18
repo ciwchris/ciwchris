@@ -12,11 +12,11 @@ Spirituality ⛪ Survivor 🏝️ Reading 📚 Running 🏃
 ## :writing_hand: Blog posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Using scikit-learn to create a model](https://blog.christopherlopes.com/posts/2024-11-16-using-scikit-learn-to-create-a-model/)
+- [The Book of AI and the Azure AI CLI](https://blog.christopherlopes.com/posts/2024-11-09-azure-ai-cli/)
 - [Semantic Kernel exploration](https://blog.christopherlopes.com/posts/2024-05-16-semantic-kernel-exploration/)
 - [Architecture Descision Records &lpar;ADR&rpar;](https://blog.christopherlopes.com/posts/2024-04-08-architecture-decision-records/)
 - [Integrating .NET Smart Combo Box](https://blog.christopherlopes.com/posts/2024-03-29-blazor-smart-component/)
-- [Faking time and logs](https://blog.christopherlopes.com/posts/2024-03-11-faking-time-and-logs/)
-- [The question of null](https://blog.christopherlopes.com/posts/2023-11-29-the-question-of-null/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
