@@ -14,9 +14,9 @@ Spirituality ⛪ Survivor 🏝️ Reading 📚 Running 🏃
 <!-- BLOG-POST-LIST:START -->
 - [Using scikit-learn to create a model](https://blog.christopherlopes.com/posts/2024-11-16-using-scikit-learn-to-create-a-model/)
 - [The Book of AI and the Azure AI CLI](https://blog.christopherlopes.com/posts/2024-11-09-azure-ai-cli/)
+- [What do you use for local RAG](https://blog.christopherlopes.com/posts/2024-11-02-local-rag/)
+- [Using ONNX to integrate local AI models into .NET](https://blog.christopherlopes.com/posts/2024-08-23-using-onnx-to-integrate-models/)
 - [Semantic Kernel exploration](https://blog.christopherlopes.com/posts/2024-05-16-semantic-kernel-exploration/)
-- [Architecture Descision Records &lpar;ADR&rpar;](https://blog.christopherlopes.com/posts/2024-04-08-architecture-decision-records/)
-- [Integrating .NET Smart Combo Box](https://blog.christopherlopes.com/posts/2024-03-29-blazor-smart-component/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
