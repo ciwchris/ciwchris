@@ -12,11 +12,11 @@ Spirituality ⛪ Survivor 🏝️ Reading 📚 Running 🏃
 ## :writing_hand: Blog posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Blind spots: when medicine gets it wrong, and what it means for our health](https://blog.christopherlopes.com/posts/2024-12-01-blind-spots/)
 - [Using scikit-learn to create a model](https://blog.christopherlopes.com/posts/2024-11-16-using-scikit-learn-to-create-a-model/)
 - [The Book of AI and the Azure AI CLI](https://blog.christopherlopes.com/posts/2024-11-09-azure-ai-cli/)
 - [What do you use for local RAG](https://blog.christopherlopes.com/posts/2024-11-02-local-rag/)
 - [Using ONNX to integrate local AI models into .NET](https://blog.christopherlopes.com/posts/2024-08-23-using-onnx-to-integrate-models/)
-- [Semantic Kernel exploration](https://blog.christopherlopes.com/posts/2024-05-16-semantic-kernel-exploration/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
